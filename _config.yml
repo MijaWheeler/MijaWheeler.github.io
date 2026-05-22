@@ -134,6 +134,14 @@ lemon theme:
   background: "#fff8f8"
   light_background: "#fff5f6"
 
+  custom theme:
+  text: "#2f332c"
+  border: "#e6f2e0"
+  link: "#5aa340"
+  highlight: "#38761d"
+  background: "#f8fbf7"
+  light_background: "#fff5f6"
+
 
 
 
