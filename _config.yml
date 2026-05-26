@@ -15,8 +15,7 @@ title: Mija Wheeler's Portfolio # This is what shows up in the tab of the browse
 name: Mija Wheeler
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
+  Write an awesome intro and discuss your highlights and qualification. You can edit this line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -93,13 +92,13 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
-colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+colors: # this is a custom color theme created by Mija Wheeler
+  text: "#2f332c"
+  border: "#e6f2e0"
+  link: "#5aa340"
+  highlight: "#38761d"
+  background: "#f8fbf7"
+  light_background: "#f3f9f0"
 
 # A few examples. 
 basic theme:
@@ -140,7 +139,7 @@ lemon theme:
   link: "#5aa340"
   highlight: "#38761d"
   background: "#f8fbf7"
-  light_background: "#fff5f6"
+  light_background: "#f3f9f0"
 
 
 
