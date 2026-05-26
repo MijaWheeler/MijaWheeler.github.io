@@ -13,7 +13,7 @@ title: Mija Wheeler's Portfolio # This is what shows up in the tab of the browse
 
 # Hero Section
 name: Mija Wheeler
-headline: headline message
+headline: Studying Computer Engineering at the University of Hawaii at Manoa, I am passionate about creating innovative solutions that bridge the gap between hardware and software. With a strong foundation in both disciplines, I thrive on designing and developing cutting-edge technologies that enhance user experiences and drive technological advancements. My diverse skill set allows me to approach challenges from multiple angles, making me a versatile and adaptable engineer ready to tackle complex problems in the ever-evolving tech landscape.
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -117,7 +117,7 @@ basic theme:
   background: "#f7fbfa"
   light_background: "#f0f9f7"
   
-lemon theme:
+  lemon theme:
   text: "#2d2926"
   border: "#f7f3e3"
   link: "#ffc94d"
@@ -183,7 +183,7 @@ include:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+#exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
