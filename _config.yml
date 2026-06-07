@@ -5,21 +5,25 @@
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 
+# STEPS: open bash termnial. git status to check connection to github. 
+
+
 # Main Page Setup
 
 title: Mija Wheeler's Portfolio # This is what shows up in the tab of the browser
 
 
-
 # Hero Section
 name: Mija Wheeler
-headline: Studying Computer Engineering at the University of Hawaii at Manoa, I am passionate about creating innovative solutions that bridge the gap between hardware and software. With a strong foundation in both disciplines, I thrive on designing and developing cutting-edge technologies that enhance user experiences and drive technological advancements. My diverse skill set allows me to approach challenges from multiple angles, making me a versatile and adaptable engineer ready to tackle complex problems in the ever-evolving tech landscape.
+headline: Studying Computer Engineering at the University of Hawaii at Manoa.
+
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+#I am passionate about creating innovative solutions that bridge the gap between hardware and software. With a strong foundation in both disciplines, I thrive on designing and developing cutting-edge technologies that enhance user experiences and drive technological advancements. My diverse skill set allows me to approach challenges from multiple angles, making me a versatile and adaptable engineer ready to tackle complex problems in the ever-evolving tech landscape.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/headshot.jpg
 
 
 # Link your resume
@@ -36,7 +40,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
+  # instragram:       # https://instagram.com/{your url slug} 
   youtube:           # https://youtube.com/@{your url slug} 
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
@@ -44,8 +48,58 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
-    tools:
+  - catergory: Programming & Software Development
+    Languages:
+    - C/C++
+    - MATLAB
+    - Java
+    - PowerFX (for Microsoft Power Apps)
+    - CSS / HTML (for web development)
+    - Verilog / VHDL (for hardware description)
+    Version Control:
+    - Git / GitHub / GitLab
+    Operating Systems:
+    - Linux (Ubuntu, Debian)??
+    - Windows
+    - MacOS
+    - Raspberry Pi OS
+    - Android
+    IDEs & Editors:
+    - Visual Studio
+    - VS Code
+    - Clion (for C/C++ development)
+    - Eclipse (for Java development & unit testing)
+    - Arduino IDE (for embedded systems development) #embe
+    - Android Studio (for Android app development & embedded systems development) #embe
+
+    Engineering Software:
+   # - Altium Designer (for PCB design) to learn
+    - Matlab (for data analysis, simulations, and algorithm development)
+    - Power Apps (for low-code application development)
+    - Power Automate (for workflow automation)
+    - SharePoint (for collaboration and document management)
+    - Microsoft Access (for database management and application development)
+ 
+    Prototyping Tools:
+    - CorelDRAW (for technical drawings, schematics, & laser cutting)
+    - Verilog / VHDL (for hardware description and FPGA development)
+    - Breadboarding for circuit testing
+    - Laser Cutting (for rapid prototyping and fabrication)
+
+  - catergory: Embedded Systems & Hardware
+    Tools:
+    - Arduino
+    - Raspberry Pi
+    - ESP32
+    - Microcontrollers (general)
+    Skills:
+    - Circuit Design and Analysis
+    - PCB Design and Layout
+    - FPGA Development
+    - Sensor Integration and Interfacing
+    - Hardware Debugging and Troubleshooting
+  - catergory: Design & 3D Modeling
+    Tools:
     - Onshape
     - Solidworks
     - Creo
@@ -54,25 +108,56 @@ skills:
     - Siemens NX
     - Inventor (Autodesk)
     - CATIA (Dassault Systèmes)
-  - category: Prototyping
-    tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
-    tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+
+  
+
+
+
+
+  # - catergory: Embedded Systems
+  #   tools:
+  #   - Arduino
+  #   - Raspberry Pi
+  #   - ESP32
+  #   - Microcontrollers (general)
+  # - category: Software Development Tools
+  #   tools:
+  #   - Git / GitHub / GitLab (for version control)
+  #   - Eclipse (for Java development & unit testing)
+  #   - Visual Studio IDE
+  #   - 
+  #   - VS Code
+  #   - Clion (for C/C++ development)
+  
+  # - category: 3D Modeling
+  #   tools:
+  #   - Onshape
+  #   - Solidworks
+  #   - Creo
+  #   - Fusion 360 (Autodesk)
+  #   - Blender (for complex shapes or animations)
+  #   - Siemens NX
+  #   - Inventor (Autodesk)
+  #   - CATIA (Dassault Systèmes)
+  # - category: Prototyping
+  #   tools:
+  #   - SLA
+  #   - CNC
+  #   - FDM
+  #   - SLS
+  #   - DMLS
+  #   - PolyJet Printing
+  #   - Vacuum Casting
+  #   - Laser Cutting
+  #   - Water Jet Cutting
+  #   - Arduino / Raspberry Pi
+  #   - Breadboarding for circuit testing
+  # - category: Design Standards / Practices
+  #   tools:
+  #   - GD&T ASME Y14
+  #   - ISO fits and tolerances
+  #   - PLM (PTC Windchill / Arena)   
+  # - category: PCB Design
     tools:
     - Altium Designer
     - Altium
