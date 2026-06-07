@@ -71,15 +71,13 @@ skills:
     - Eclipse (for Java development & unit testing)
     - Arduino IDE (for embedded systems development) #embe
     - Android Studio (for Android app development & embedded systems development) #embe
-
     Engineering Software:
-   # - Altium Designer (for PCB design) to learn
+  # - Altium Designer (for PCB design) to learn
     - Matlab (for data analysis, simulations, and algorithm development)
     - Power Apps (for low-code application development)
     - Power Automate (for workflow automation)
     - SharePoint (for collaboration and document management)
     - Microsoft Access (for database management and application development)
- 
     Prototyping Tools:
     - CorelDRAW (for technical drawings, schematics, & laser cutting)
     - Verilog / VHDL (for hardware description and FPGA development)
@@ -98,16 +96,7 @@ skills:
     - FPGA Development
     - Sensor Integration and Interfacing
     - Hardware Debugging and Troubleshooting
-  - catergory: Design & 3D Modeling
-    Tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
+ 
 
   
 
