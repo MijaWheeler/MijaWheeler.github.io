@@ -18,10 +18,8 @@ name: Mija Wheeler
 headline: Studying Computer Engineering at the University of Hawaii at Manoa.
 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-I'm Mija Wheeler, a Computer Engineering student at the University of Hawaiʻi at Mānoa graduating in Spring 2027. I'm obsessed with exploring the boundary between physical systems and software, especially the sensors, embedded systems and instruments used to study and protect coastal ecosystems. I'm looking to build hands-on experience in embedded systems and firmware, and to pursue research in scientific instrumentation.
-# Aloha. My name is Mija Wheeler. I'm Mija Wheeler, a Computer Engineering student at the University of Hawaiʻi at Mānoa graduating in Spring 2027. I'm passionate about creating innovative solutions that bridge the gap between hardware and software. With a strong pratical foundation in object oriented programming and embedded systems, I am obsessed to learn more about the scithrive on designing and developing cutting-edge technologies that enhance user experiences and drive technological advancements. My diverse skill set allows me to approach challenges from multiple angles, making me a versatile and adaptable engineer ready to tackle complex problems in the ever-evolving tech landscape.
+  Aloha, I'm Mija Wheeler, a Computer Engineering student at the University of Hawaiʻi at Mānoa graduating in Spring 2027. I'm obsessed with the boundary between physical systems and software, especially the sensors, embedded systems and instruments used to study and protect coastal ecosystems. I have a practical foundation in C and object-oriented Java programming, along with hands-on experience building and deploying hardware in the field, from a fleet of low-cost habitat cameras to launch and recovery operations for the Alvin submersible. I'm looking to build more experience in embedded systems and firmware, and to pursue research in scientific instrumentation.
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/headshot.jpg
